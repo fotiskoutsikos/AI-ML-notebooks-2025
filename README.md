@@ -7,7 +7,7 @@ All notebooks were developed in Python using Google Colab and open-source librar
 ## Contents
 
 - 📷 [Image Analysis Project](./image-analysis-project)
-- ⚙️ [Google Colab Setup Notebook](./colab-environment-setup)
+- ⚙️ [Image-Classification-Notebook](./image-classification-notebook)
 - 🧠 [Sentiment Classification with Transformers](./nlp-yelp-sentiment)
 
 Each folder contains a dedicated README file explaining the purpose, context, and approach of the corresponding notebook.
