@@ -1,4 +1,4 @@
-# Deep Learning Lab Exercise 1 - Wide Residual Networks on CIFAR-10
+# Deep Learning Lab Exercise - Wide Residual Networks on CIFAR-10
 
 ## Project Overview
 
