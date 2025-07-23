@@ -9,6 +9,6 @@ All notebooks were developed in Python using Google Colab and open-source librar
 - 📷 [Image Analysis Project](./image-analysis-project)
 - ⚙️ [Image-Classification-Notebook](./image-classification-notebook)
 - 🧠 [Sentiment Classification with Transformers](./nlp-yelp-sentiment)
-- 🏠 [House-Prices-Predictions](./housing-prices-predictios)
+- 🏠 [House-Prices-Predictions](./housing-prices-predictions)
 
 Each folder contains a dedicated README file explaining the purpose, context, and approach of the corresponding notebook.
